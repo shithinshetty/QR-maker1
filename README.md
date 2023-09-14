@@ -5,5 +5,6 @@
 #How to start it
   - install the npm packages qr-image and inquirer npm i inquirer qr-image
   - initialise the node packages using npm init
+  - use the filesystem module to write the url into a file
   - run the command npm index.js
   - Hurrah! Now you can convert your url to QRCODE
